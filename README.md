@@ -1,5 +1,7 @@
 # PrototypicalNetwork-and-SimCLR
 [DL Project MIPT] Prototypical Network on the Omniglot and SimCLR with resnet18 on Downstream task
+
+[Open in colab](https://colab.research.google.com/drive/1wbNPeo2xrClfZK3_jOabuXoX8nr9kGKG?usp=sharing)
  
 Работа была выполнена в рамках домашнего задания курса Машинного Обучения в МФТИ. Полная постановка задачи [тут](https://github.com/ml-dafe/ml_mipt_dafe/tree/main/08_Self_Supervision/homework)
 
